@@ -1,6 +1,8 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
+Dynamo userdebug lineage-14.1 W
+
 # Nightly 17.1
 a3xelte userdebug lineage-17.1 W
 a5xelte userdebug lineage-17.1 W
